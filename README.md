@@ -2,14 +2,7 @@
 **我们要知道python是一个面向对象的语言**  
 什么是面向对象，就是用来直接解决一个问题的方式，目的就是创造一个好用的方法来解决特定的问题  
 首先无论接触任何一个编程语言，我们都要知道的有  
-##数据类型  
-整形  浮点型  布尔值  字符串  
-还有python中的容器  
-列表  元组  集合  字典  
-特殊类型none  
-扩展数据类型  
-ytes 是不可变的字节序列  
-bytearray 是可变的字节序列  
+基础  
+[基础](https://github.com/junmx9/-python/blob/main/%E5%9F%BA%E7%A1%80)  
+包括数据类型
 
-
-[基础](https://github.com/junmx9/-python/blob/main/%E5%9F%BA%E7%A1%80)
