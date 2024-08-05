@@ -12,3 +12,4 @@ ytes 是不可变的字节序列
 bytearray 是可变的字节序列  
 
 
+[基础](https://github.com/junmx9/-python/blob/main/%E5%9F%BA%E7%A1%80)
