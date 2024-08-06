@@ -7,4 +7,3 @@
 
 [基础](https://github.com/junmx9/-python/blob/main/%E5%9F%BA%E7%A1%80)
 
-其次python的输出和输入很简单，只要print（这里写内容就可以输出了）
